@@ -1,0 +1,2 @@
+# Circuitos-Electr-nicos-1
+"Trabajos prácticos de Circuitos Electrónicos 1 — simulaciones en LTspice"
